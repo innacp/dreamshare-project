@@ -62,7 +62,7 @@ html {
 section.header {
   background-size: cover;
   padding-top: 50px;
-  background-image: url("../../img/header-bg.png");
+  background-image: url("../img/header-bg.png");
 }
 section.header .header-top {
   width: 100%;
@@ -222,19 +222,19 @@ section.mid-info {
 }
 
 .step-one-box {
-  background-image: url("../../img/Step1-image.svg");
+  background-image: url("../img/Step1-image.svg");
 }
 
 .step-two-box {
-  background-image: url("../../img/Step2-image.svg");
+  background-image: url("../img/Step2-image.svg");
 }
 
 .step-three-box {
-  background-image: url("../../img/Step3-image.svg");
+  background-image: url("../img/Step3-image.svg");
 }
 
 .step-two-button {
-  margin-bottom: 45px;
+  margin-bottom: 33px;
 }
 
 .wrapper-partner {
